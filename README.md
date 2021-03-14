@@ -1,13 +1,13 @@
 Prueba para desarrollador front-end Corebiz.
 
+El proyecto se realizó en su totalidad con React, reenderizando todo el contenido por JSX.
+
 Se realizó la consulta a la API para recibir los productos, donde se muestran 4 productos de 5.
 De manera inversa, se envian los datos en los inputs del Newsletter a la API, validando que estos no esten vacios.
 
 Recomendación: Lo siguiente es por que el diseño se realizó en los tamaños de pantalla que especifico a continuación
     Pantalla desktop de 1520px. 
     pantalla movil 360px.
-
-El proyecto se realizó en su totalidad con React, reenderizando todo el contenido por JSX.
 
 Packages utilizados:
 
