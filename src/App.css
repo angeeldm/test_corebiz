@@ -1,0 +1,65 @@
+p{
+    font-size: 13px;
+    line-height: 18px;
+    font-family: Nunito;
+    color: #7A7A7A;
+    margin: 0;
+}
+
+h1{
+    color: #FFF;
+    font-family: Nunito;
+    margin: 0;
+    font-size: 45px;
+    line-height: 45px;
+    font-weight: 900;
+}
+
+@media (min-width: 360px) {
+    h1{
+        font-size: 30px;
+        margin-left: 20px;
+    }
+}
+
+h2{
+    font-family: Nunito;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 20px;
+    color: #000;
+}
+
+h3{
+    color: #FFF;
+    font-size: 20px;
+    line-height: 27px;
+    font-family: Nunito;
+    font-weight: 700;
+}
+
+span{
+    color: #FFF;
+    font-family: Nunito;
+    margin: 0;
+    font-size: 30px;
+    line-height: 41px;
+    font-weight: 700;
+}
+
+@media (min-width: 360px) {
+    span{
+        margin-left: 20px;
+        font-size: 25px;
+    }
+}
+
+img{
+    margin: 0;
+    max-width: 100%;
+    height: 200px;
+}
+
+.precio-promo{
+    text-decoration: line-through;
+}
